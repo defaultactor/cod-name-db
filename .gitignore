@@ -31,3 +31,6 @@ Cargo.lock
 
 # rustfmt
 rustfmt.toml
+
+# NameIndex.exe
+nameindex.exe
