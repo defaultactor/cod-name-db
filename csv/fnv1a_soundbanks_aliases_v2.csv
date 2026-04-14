@@ -1,4 +1,3 @@
-
 bc1fcccc24ed3131,fly_zm_ng_pull_out_npc
 230f817a67029b1d,fly_zm_ng_pull_out_quick_npc
 f3a4ce3256feee3c,fly_zm_ng_putaway
@@ -17679,3 +17678,8 @@ adf6dcdbb93c4cb7,wpn_sn_coral_sup_npc_mech
 51189a66dd234a57,fly_npc_sn_coral_inspect_empty_07
 f9e7933c3fa75e17,wpn_sn_coral_sup_npc_atmo
 51189566dd2341d8,fly_npc_sn_coral_inspect_empty_02
+6ec15e1b19347c76,wpn_raygun_mk2_fire_plr
+5d88cf2676644381,wpn_raygun_mk2_fire_plr_tail
+9bec5b7d61bb774,wpn_raygun_mk2_fire_plr_lfe
+8b809fe14c56b35f,wpn_drillgun_fire_plr_loop
+d30ca59e75ef47e3,wpn_drillgun_fire_plr_start
