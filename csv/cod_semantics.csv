@@ -519,3 +519,5 @@ FB8B2927,Input10
 5031EE8F,perceptualRoughnessMapDetail30
 2D0BC3,edgeAlphaMask0
 3832C5B0,detailColorMap0
+60411f60,occlusionMap1
+60411f63,occlusionMap2
